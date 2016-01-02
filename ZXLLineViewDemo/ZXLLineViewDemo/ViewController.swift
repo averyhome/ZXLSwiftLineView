@@ -4,6 +4,8 @@
 //
 //  Created by zhusven on 15/8/18.
 //  Copyright (c) 2015年 zhusven. All rights reserved.
+//
+//  你说的是什么
 //  test 10101010101001
 
 import UIKit
@@ -22,6 +24,18 @@ class ViewController: UIViewController {
         
         
 //        wwwwwwwwwwwww
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        /**
+        googoogogogogoogogogogo
+        */
     }
 
     override func didReceiveMemoryWarning() {
@@ -29,7 +43,11 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
         
         
-        //  real dev change
+        
+        
+        
+        
+        //REAL  DEV  GOGOGO
     }
 
 
