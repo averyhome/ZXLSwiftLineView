@@ -167,6 +167,8 @@
 		3002577A1B831AC900785EEC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0720;
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = zhusven;
 				TargetAttributes = {
@@ -423,6 +425,7 @@
 				300257A31B831AC900785EEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		300257A41B831AC900785EEC /* Build configuration list for PBXNativeTarget "ZXLLineViewDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -431,6 +434,7 @@
 				300257A61B831AC900785EEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
